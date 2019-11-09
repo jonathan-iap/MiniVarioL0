@@ -1,0 +1,8 @@
+MS56xx.c:58:6:MS56xx_Init	32	static
+MS56xx.c:99:6:MS56xx_Reset	16	static
+MS56xx.c:121:6:MS56xx_ReadPROM	24	static
+MS56xx.c:157:9:MS56xx_crc4	24	static
+MS56xx.c:200:10:MS56xx_Read_RAW_ADC	48	static
+MS56xx.c:264:8:MS56xx_getPressure	56	static
+MS56xx.c:308:8:MS56xx_getTemperature	16	static
+MS56xx.c:318:8:ms56xx_getAltitude	32	static

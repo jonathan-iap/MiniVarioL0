@@ -1,0 +1,7 @@
+Menu.c:17:6:varioRun	24	static
+Menu.c:30:6:menu	16	static
+Menu.c:50:6:selectAction	24	static
+Menu.c:95:6:volumeUp	16	static
+Menu.c:112:6:volumeDown	16	static
+Menu.c:129:6:sensitivityUp	8	static
+Menu.c:134:6:sensitivityDown	8	static

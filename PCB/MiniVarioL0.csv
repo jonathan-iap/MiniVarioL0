@@ -1,0 +1,17 @@
+"Id";"Référence";"Boîtier";"Quantité";"Désignation";"Fournisseur et réf";
+1;"BT1";"CellCoin_BK-912";1;"Battery_Cell";;;
+2;"U2";"QFN-32-1EP_5x5mm_Pitch0.5mm";1;"STM32L071KBUx";;;
+3;"U1";"UQFN-16-1EP_3x3mm_Pitch0.5mm";1;"PAM8904JER";;;
+4;"REF**,REF**,REF**,REF**";"Measurement_Point_Round-SMD-Pad_Small";4;"Measurement_Point_Round-SMD-Pad_Small";;;
+5;"SW4,SW3,SW2,SW1";"PushButton_KMS233G";4;"SW_Push_Dual";;;
+6;"C1,C2,C3,C4";"C_0402";4;"10nF";;;
+7;"C5,C12";"C_0603";2;"10µF";;;
+8;"C6,C7,C8,C9,C10,C11,C13,C14";"C_0402";8;"100nF";;;
+9;"D1,D2";"D_0603";2;"D_Schottky";;;
+10;"D3";"LED_0603";1;"LED";;;
+11;"FB1";"L_0603";1;"Ferrite_Bead";;;
+12;"J1";"Conn_Debug";1;"DEBUG / PROG";;;
+13;"LS1";"Buzzer_PKLCS1212E";1;"Speaker_Crystal";;;
+14;"Q1";"TSOT-23-6";1;"DMC2053UVT";;;
+15;"R1,R2,R3";"R_0402";3;"1M";;;
+16;"U3";"LGA-8_3x5mm_Pitch1.25mm";1;"MS5611-01BA";;;

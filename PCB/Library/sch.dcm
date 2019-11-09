@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAM8904JER
+D IC AMP AUD 16VPP CLASS D 16UQFN
+F https://www.diodes.com/assets/Datasheets/PAM8904.pdf
+$ENDCMP
+#
+#End Doc Library

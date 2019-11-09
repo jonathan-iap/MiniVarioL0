@@ -1,0 +1,31 @@
+### Module positions - created on sam. 09 nov. 2019 19:29:08 CET ###
+### Printed by Pcbnew version kicad 5.1.4-e60b266~84~ubuntu16.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                            PosX       PosY       Rot  Side
+C1        10nF           C_0402                          13.3500     1.4000  270.0000  top
+C2        10nF           C_0402                          18.6000     6.1000    0.0000  top
+C3        10nF           C_0402                          18.6000    13.9000    0.0000  top
+C4        10nF           C_0402                          18.6000    23.9000    0.0000  top
+C5        10µF          C_0603                          18.9500    10.2000   90.0000  top
+C6        100nF          C_0402                          14.7500    18.6000  180.0000  top
+C7        100nF          C_0402                          15.0000    25.6000   90.0000  top
+C8        100nF          C_0402                           5.2000    15.9500  270.0000  top
+C9        100nF          C_0402                          11.8000    14.0000  180.0000  top
+C10       100nF          C_0402                          11.2000     9.0000   90.0000  top
+C11       100nF          C_0402                          15.9500    25.6000   90.0000  top
+C12       10µF          C_0603                           2.9000    12.5000    0.0000  top
+C13       100nF          C_0402                           2.9000    11.4000    0.0000  top
+C14       100nF          C_0402                          10.7500     5.7500   90.0000  top
+D1        D_Schottky     D_0603                          16.4000     6.3500   90.0000  top
+D2        D_Schottky     D_0603                          13.5500     6.3500  270.0000  top
+D3        LED            LED_0603                        10.0000    16.5000    0.0000  top
+FB1       Ferrite_Bead   L_0603                           2.9500    10.2500  180.0000  top
+Q1        DMC2053UVT     TSOT-23-6                       16.6000    10.2000   90.0000  top
+R1        1M             R_0402                          13.9000    10.7500  180.0000  top
+R2        1M             R_0402                          13.9000     9.6500  180.0000  top
+R3        1M             R_0402                           6.2000    15.9500   90.0000  top
+U1        PAM8904JER     UQFN-16-1EP_3x3mm_Pitch0.5mm    14.7500    22.1500    0.0000  top
+U2        STM32L071KBUx  QFN-32-1EP_5x5mm_Pitch0.5mm      7.5000    11.6500    0.0000  top
+U3        MS5611-01BA    LGA-8_3x5mm_Pitch1.25mm          7.4500     5.7500  270.0000  top
+## End

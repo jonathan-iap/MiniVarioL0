@@ -1,0 +1,5 @@
+Tone.c:11:6:tone	24	static
+Tone.c:28:6:setTonePeriode	48	static
+Tone.c:53:6:setToneVolume	16	static
+Tone.c:79:6:toneStart	8	static
+Tone.c:84:6:toneStop	8	static
